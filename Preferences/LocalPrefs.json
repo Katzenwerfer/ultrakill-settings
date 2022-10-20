@@ -1,0 +1,9 @@
+{
+    "kat.config": "NEXT",
+    "mouseSensitivity": 8.0,
+    "frameRateLimit": 0,
+    "vSync": false,
+    "simpleNailPhysics": false,
+    "maxGore": 10000.0,
+    "game.config": "NEXT"
+}
