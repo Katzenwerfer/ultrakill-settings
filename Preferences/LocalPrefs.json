@@ -1,7 +1,7 @@
 {
     "kat.config": "NEXT",
-    "mouseSensitivity": 8.0,
-    "frameRateLimit": 0,
+    "mouseSensitivity": 7.0,
+    "frameRateLimit": 1,
     "vSync": false,
     "simpleNailPhysics": false,
     "bloodStainChance": 0.25,
