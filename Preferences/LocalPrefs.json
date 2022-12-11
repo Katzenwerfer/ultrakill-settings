@@ -4,6 +4,7 @@
     "frameRateLimit": 0,
     "vSync": false,
     "simpleNailPhysics": false,
+    "bloodStainChance": 0.25,
     "maxGore": 10000.0,
     "game.config": "NEXT"
 }
