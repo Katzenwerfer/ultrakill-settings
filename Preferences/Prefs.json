@@ -4,8 +4,8 @@
   "weaponHoldPosition": 1,
   "screenShake": 0.0,
   "pauseMenuConfirmationDialogs": false,
-  "keyBinding.Punch": 101
-    "keyBinding.LastUsedWeapon": 326,
+  "keyBinding.Punch": 101,
+  "keyBinding.LastUsedWeapon": 326,
   "keyBinding.ChangeVariation": 327,
   "keyBinding.ChangeFist": 113,
   "scrollReversed": true,
@@ -15,8 +15,8 @@
   "vertexWarping": 1,
   "colorCompression": 1,
   "subtitlesEnabled": true,
-  "hudBackgroundOpacity": 80.0
-    "iconPack": 1,
+  "hudBackgroundOpacity": 80.0,
+  "iconPack": 1,
   "crossHair": 2,
   "crossHairColor": 0,
   "crossHairHudFade": true,
