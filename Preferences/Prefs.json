@@ -15,6 +15,7 @@
     "crossHair": 2,
     "crossHairColor": 8,
     "crossHairHudFade": true,
+    "gunColor.config": "NEXT",
     "gunColorPreset.1": 0,
     "gunColorPreset.1.a": 0,
     "gunColorPreset.2": 0,
