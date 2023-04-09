@@ -1,10 +1,9 @@
 {
     "kat.config": "NEXT",
-    "mouseSensitivity": 7.0,
-    "frameRateLimit": 1,
+    "mouseSensitivity": 6.6,
+    "frameRateLimit": 0,
     "vSync": false,
-    "simpleNailPhysics": false,
     "bloodStainChance": 0.25,
-    "maxGore": 10000.0,
+    "maxGore": 5000.0,
     "game.config": "NEXT"
 }
