@@ -1,7 +1,7 @@
 {
   "kat.config": "NEXT",
   "fieldOfView": 73.739795,
-  "weaponHoldPosition": 1,
+  "weaponHoldPosition": 0,
   "screenShake": 0.0,
   "pauseMenuConfirmationDialogs": false,
   "keyBinding.Punch": 101,
